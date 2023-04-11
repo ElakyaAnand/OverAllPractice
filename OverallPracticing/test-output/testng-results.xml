@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-10T20:54:31 IST" name="Default suite" finished-at="2023-04-10T20:54:59 IST" duration-ms="27413">
+    <groups>
+    </groups>
+    <test started-at="2023-04-10T20:54:31 IST" name="Default test" finished-at="2023-04-10T20:54:59 IST" duration-ms="27413">
+      <class name="page_object_model_testcase.Admin_TestCase">
+        <test-method signature="admin_page()[pri:0, instance:page_object_model_testcase.Admin_TestCase@2b662a77]" started-at="2023-04-10T20:54:31 IST" name="admin_page" finished-at="2023-04-10T20:54:59 IST" duration-ms="27382" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- admin_page -->
+      </class> <!-- page_object_model_testcase.Admin_TestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
